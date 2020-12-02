@@ -300,17 +300,13 @@ a{
 
 
 .publicidad{
-	background: #000;
 	width: 100% ;
-	display: flex;
-	justify-content: center;
-	text-align: center;
-	flex-direction: column;
 	grid-column: 1/-1;
+
 }
 
 .publicidad img{
-	width: 95%;
+	width: 100%;
 }
 
 
@@ -462,19 +458,12 @@ footer .derechos{
 
 .publicidad2{
 	width: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	grid-column: 1/-1;
 	margin-bottom: 15px;
 }
 
 .publicidad2 img{
-	width: 100%;
-	height: 150px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	width:100%;
 }
 
 
