@@ -301,31 +301,18 @@ a{
 
 .publicidad{
 	background: #000;
-	width: 100%;
-	color: white;
+	width: 100% ;
 	display: flex;
 	justify-content: center;
 	text-align: center;
 	flex-direction: column;
-	padding: 50px;
-	grid-column: 1/-1
+	grid-column: 1/-1;
 }
 
-.publicidad a{ 
-	width: 15%;
-	margin: 15px auto;
-	background: white;
-	height: 50px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	color: #000;
-	font-weight: 600;
+.publicidad img{
+	width: 95%;
 }
-.main .publicidad h1{
-	width: 40%;
-	margin: auto;
-}
+
 
 
 .main .descargar,
