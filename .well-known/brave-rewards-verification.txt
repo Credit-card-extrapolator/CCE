@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cceoficial.herokuapp.com
+Token: b768d8d05f341e4879c2b3197f2fcb7ed688a29e12a438449fafc11ea8ba849e
