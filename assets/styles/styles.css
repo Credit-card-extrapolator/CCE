@@ -456,7 +456,7 @@ footer .derechos{
 }
 
 
-.publicidad2{
+.main .publicidad2{
 	width: 100%;
 	grid-column: 1/-1;
 	margin-bottom: 15px;
@@ -465,9 +465,9 @@ footer .derechos{
 	align-items: center;
 }
 
-.publicidad2 script{
+.main .publicidad2 script{
 	width: 100%;
-	height: 200px;
+	height: 100%;
 }
 
 
