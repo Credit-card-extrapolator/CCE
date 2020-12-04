@@ -368,6 +368,20 @@ footer .derechos{
 
 
 
+.main .publicidad{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	grid-column: 1/-1;
+	margin:20px;
+
+}
+
+.main .publicidad script{
+	width: 100%;
+	height: 100%
+}
+
 @media  screen and (max-width: 900px){
 
 	.header{

@@ -465,6 +465,11 @@ footer .derechos{
 	align-items: center;
 }
 
+.publicidad2 script{
+	width: 100%;
+	height: 200px;
+}
+
 
 
 @media screen and (max-width:1120px) {
