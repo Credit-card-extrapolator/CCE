@@ -456,10 +456,17 @@ footer .derechos{
 
 
 .main .publicidad2{
-	margin-bottom: 15px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	grid-column: 1/-1;
+	margin:20px;
+
+}
+
+.main .publicidad2 script{
+	width: 100%;
+	height: 100%
 }
 
 
